@@ -46,7 +46,7 @@ A Python-based quiz application built using the `tkinter` library. The app prese
 ![Main Screen](Assets/Screenshot1.png)
 
 ### Difrent Question
-![Question Example](Assets/Screenshot12png)
+![Question Example](Assets/Screenshot2png)
 
 ### Score
 ![Score Screen](Assets/Screenshot3.png)
