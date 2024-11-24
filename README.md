@@ -1,6 +1,4 @@
-Here’s a `README.md` file for your GitHub repository:
 
-```markdown
 # Quiz App
 
 A Python-based quiz application built using the `tkinter` library. The app presents multiple-choice questions and calculates the user's score based on correct answers.
